@@ -1,4 +1,4 @@
-# Generate report
+# ChartJS Report
 
 <!-- vscode-markdown-toc -->
 * 1. [Description](#Description)
